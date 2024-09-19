@@ -17,7 +17,7 @@ module.exports = {
         darkGrayishBlue:"#9095a7",
         veryDarkBlue:"#1d1e25",
         veryPaleRed:"#ffefeb",
-        veryLightGra:"#fafafa"
+        veryLightGray:"#fafafa"
       }
     },
   },
